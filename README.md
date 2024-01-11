@@ -1,4 +1,4 @@
 # Progetto Camerino 2024
 Progetto 2024 - A.2(S.G)!
 
-Tematica: " Nuove ed emergenti tecnologie "  --> nel nostro caso useremo NPC comandati dall'AI 😛
+Questa e la zona in qui faccio le mie modifiche ai codici per favore non toccate o vi stacco le dita e ve le infilo in orifizzi brutti
